@@ -44,10 +44,6 @@ public class ReverseStringStack {
 
 <img width="387" height="67" alt="image" src="https://github.com/user-attachments/assets/ad0508d4-ee3a-4369-887b-28fee9eb195e" />
 
-## Result:
-
-Thus, the program successfully reverses the given string using a stack without relying on built-in reverse functions.
-
 
 ## Result:
 Thus, the program successfully reverses the given string using a stack without relying on built-in reverse functions.
